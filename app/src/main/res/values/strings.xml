@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">projectAndroid2</string>
+    <string name="image_of_first_project">image of first project</string>
+    <string name="textview">TextView</string>
+</resources>
